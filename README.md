@@ -4,7 +4,7 @@ See Live Demo On [https://nihal-priyadarshi.github.io/Login_page/](https://nihal
 
 My Webpage Looks Like This, Go And Explore It.
 
-![Screenshot](./Images/Webpage_Screenshot.png "Screenshot")
+![Screenshot](./Webpage_Screenshot.png "Screenshot")
 
 <br><br>
 <p align="center"> Let's have a chat on </p> 
