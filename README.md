@@ -1,7 +1,5 @@
 ### Login_page
 
-See Live Demo On [https://nihal-priyadarshi.github.io/Login_page/](https://nihal-priyadarshi.github.io/Login_page/)
-
 My Webpage Looks Like This, Go And Explore It.
 
 ![Screenshot](./Webpage_Screenshot.png "Screenshot")
